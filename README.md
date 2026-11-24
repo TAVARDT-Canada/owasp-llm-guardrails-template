@@ -7,9 +7,9 @@
 
 Production-ready open source middleware and security blueprint for mitigating Prompt Injection (OWASP LLM01), system prompt extraction, and adversarial jailbreaks, aligned with PIPEDA requirements and CCCS AI security guidance.
 
-Engineered and maintained by the AI safety and security engineering practice at **[TAVARDT Canada](https://ag.tavardt.com/ca/super-intelligence/)**.
+Engineered and maintained by the AI safety and security engineering practice at **TAVARDT Canada**.
 
----
+***
 
 ## 1. AI Security Architecture Overview
 
@@ -18,27 +18,27 @@ This repository delivers a robust, lightweight guardrail framework tailored for 
 ### Guardrail Mandate for Enterprise Production
 Without independent validation layers, LLM applications merge data and control planes into a single stream. Guardrails establish defense-in-depth across prompts, external document ingestion, and tool invocations.
 
----
+***
 
 ## 2. Threat Vectors Addressed (OWASP Top 10 for LLMs)
 
 | Defense Layer | Threat Vector Mitigated | Mitigation Mechanism |
-| :--- | :--- | :--- |
+| :- | :- | :- |
 | **Input Sanitizer** | Direct Prompt Injection & Jailbreaks | Heuristic filtering of jailbreak signatures and role-override commands. |
 | **Canary Token Verifier** | System Prompt Exfiltration | Real-time monitoring of canary tokens within generated outputs to thwart exfiltration. |
 | **RAG Boundary Guard** | Indirect Prompt Injection | Controlled boundary containment for third-party vector ingestion. |
 | **Structured Output Filter** | Unauthorized Function Execution | Strict schema verification on downstream tool and API calls. |
 
----
+***
 
 ## 3. Pre-Deployment AI Robustness Diagnostic
 
 Assess your conversational AI agents against adversarial exploits using TAVARDT's Canadian diagnostic suite:
 
-* **AI Robustness Assessment:** [TAVARDT Canada LLM Robustness Evaluator](https://tools.tavardt.com/ca/llm-robustness-evaluator/)
-* **Full Engineering Tools Suite:** [TAVARDT Tools Canada](https://tools.tavardt.com/ca/)
+* **AI Robustness Assessment:** **TAVARDT Canada LLM Robustness Evaluator**
+* **Full Engineering Tools Suite:** **TAVARDT Tools Canada**
 
----
+***
 
 ## 4. Installation & Quickstart Guide
 
@@ -71,16 +71,16 @@ if not is_valid:
     raise SecurityError("Critical alert: System prompt leak detected via canary token!")
 ```
 
----
+***
 
 ## 5. AI Security Advisory & Enterprise Agent Engineering
 
 For Canadian enterprises seeking sovereign AI agent engineering, compliance audits, or bespoke hardening:
 
-* **Corporate Portal:** [TAVARDT Canada](https://ag.tavardt.com/ca/super-intelligence/)
+* **Corporate Portal:** **TAVARDT Canada**
 * **Technical Inquiries:** [Connect with Engineering](https://ag.tavardt.com/ca/contact/)
 
----
+***
 
 ## Licence
 
