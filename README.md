@@ -7,7 +7,7 @@
 
 Production-ready open source middleware and security blueprint for mitigating Prompt Injection (OWASP LLM01), system prompt extraction, and adversarial jailbreaks, aligned with PIPEDA requirements and CCCS AI security guidance.
 
-Engineered and maintained by the AI safety and security engineering practice at **TAVARDT Canada**.
+Engineered and maintained by the AI safety and security engineering practice at **TAVARDT**.
 
 ***
 
@@ -35,7 +35,7 @@ Without independent validation layers, LLM applications merge data and control p
 
 Assess your conversational AI agents against adversarial exploits using TAVARDT's Canadian diagnostic suite:
 
-* **AI Robustness Assessment:** **TAVARDT Canada LLM Robustness Evaluator**
+* **AI Robustness Assessment:** **TAVARDT LLM Robustness Evaluator**
 * **Full Engineering Tools Suite:** **TAVARDT Tools Canada**
 
 ***
@@ -77,7 +77,7 @@ if not is_valid:
 
 For Canadian enterprises seeking sovereign AI agent engineering, compliance audits, or bespoke hardening:
 
-* **Corporate Portal:** **TAVARDT Canada**
+* **Corporate Portal:** **TAVARDT**
 * **Technical Inquiries:** [Connect with Engineering](https://ag.tavardt.com/ca/contact/)
 
 ***
@@ -85,4 +85,8 @@ For Canadian enterprises seeking sovereign AI agent engineering, compliance audi
 ## Licence
 
 Distributed under the open-source MIT Licence. Refer to the [`LICENSE`](LICENSE) file for more information.  
-Copyright (c) 2026 TAVARDT.
+Copyright
+
+***
+
+© 2026 TAVARDT. All rights reserved.
