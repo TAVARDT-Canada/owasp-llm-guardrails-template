@@ -90,10 +90,9 @@ For Canadian enterprises seeking sovereign AI agent engineering, compliance audi
 
 ***
 
-## Licence
+### Licence
 
-Distributed under the open-source MIT Licence. Refer to the [`LICENSE`](LICENSE) file for more information.  
-Copyright
+Distributed under the open-source MIT Licence. Refer to the [`LICENSE`](LICENSE) file for more information.
 
 ***
 
