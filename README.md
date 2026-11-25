@@ -1,13 +1,10 @@
 # OWASP LLM01 Guardrails Template & AI Security Blueprint
 
-[![Licence MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![OWASP LLM01](https://img.shields.io/badge/OWASP-LLM01%20Hardened-ff0055.svg)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-[![Language](https://img.shields.io/badge/Language-English%20(Canada)-green.svg)](README.md)
 [![AI Diagnostics](https://img.shields.io/badge/TAVARDT-AI%20Evaluator-5b3cf5.svg)](https://tools.tavardt.com/ca/llm-robustness-evaluator/)
+[![Licence MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Production-ready open source middleware and security blueprint for mitigating Prompt Injection (OWASP LLM01), system prompt extraction, and adversarial jailbreaks, aligned with PIPEDA requirements and CCCS AI security guidance.
-
-Engineered and maintained by the AI safety and security engineering practice at **TAVARDT**.
 
 ***
 
@@ -73,16 +70,7 @@ if not is_valid:
 
 ***
 
-## 5. AI Security Advisory & Enterprise Agent Engineering
-
-For Canadian enterprises seeking sovereign AI agent engineering, compliance audits, or bespoke hardening:
-
-* **Corporate Portal:** **TAVARDT**
-* **Technical Inquiries:** [Connect with Engineering](https://ag.tavardt.com/ca/contact/)
-
-***
-
-## Useful Links
+## 5. Useful Links
 
 * **Corporate Portal:** https://ag.tavardt.com/ca/
 * **Diagnostic Suite:** https://tools.tavardt.com/ca/
@@ -92,7 +80,7 @@ For Canadian enterprises seeking sovereign AI agent engineering, compliance audi
 
 ### Licence
 
-Distributed under the open-source MIT Licence. Refer to the [`LICENSE`](LICENSE) file for more information.
+Distributed under the open-source MIT Licence.
 
 ***
 
